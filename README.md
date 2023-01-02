@@ -1,2 +1,4 @@
-# Shipping-cost-rediction
-To To predict the cost required to ship the sculptures to customers based on the information provided in the dataset.
+# Shipping-cost-prediction
+
+Built a Machine Learling model to predict the cost required to ship sculptures to customers and create an effective collection management system.
+The dataset is obtained from kaggle. Performed EDA, preprocessing, build different models and did hyperparameter tuning using RandomisedSearch CV to find the best model.
